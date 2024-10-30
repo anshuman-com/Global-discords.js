@@ -1,5 +1,3 @@
-Here's a README for the bot based on your code:
-
 ---
 
 # Discord Message Relay Bot
